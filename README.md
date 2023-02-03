@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhaykalmegh
 - 👀 I’m interested in coding and developing web projects.
-- 🌱 I’m currently working AWS and Full stack development.
-- 💞️ I’m looking to collaborate on everyone who are intrested.
+- 🌱 I’m currently working on Flask, Django, and Backend development.
+- 💞️ I’m looking to collaborate with everyone who is interested.
 - 📫 How to reach me at abhaykalmegh@gmail.com
 
 <!---
